@@ -1,6 +1,6 @@
 # **Project Title**
 
-### Hello_World
+### Sample README.md file
 
 # Description
 Hello, I'm Jillian Kozlowski
